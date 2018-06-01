@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "learnyoumongo": "^3.2.1",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
